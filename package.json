@@ -1,0 +1,13 @@
+{
+  "name": "my-node-docker-app",
+  "version": "1.0.0",
+  "description": "A simple Node.js app for CI/CD demo",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "author": "Ahmed Qaoud",
+  "license": "MIT"
+}
+
